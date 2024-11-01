@@ -19,14 +19,6 @@
     background-size:cover;
     background-attachment: fixed;
   }
-  .input-container{
-    width:100%;
-    display:flex;
-    align-items:center;
-    border:2px solid rgb(12, 241, 245);
-    border-radius:5px;
-    overflow:hidden;
-  }
 }
 body{
   margin:0;
