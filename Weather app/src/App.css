@@ -7,13 +7,11 @@
   .container{
     max-width:60%;
     height:70vh;
-    margin-left: 112px;
-    
+    margin-left: 113px;
   }
   body{
     background-size:cover;
     background-attachment: fixed;
-    
   }
 }
 body{
