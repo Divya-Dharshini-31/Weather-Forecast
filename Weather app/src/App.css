@@ -6,8 +6,8 @@
 @media(max-width:500px){
   .container{
     max-width:70%;
-    height:70vh;
-    margin-left:20px;
+    height:72vh;
+    margin-left:40px;
   }
   body{
     margin:0;
